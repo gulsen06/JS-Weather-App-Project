@@ -6,7 +6,7 @@
   --text_med: #fff;
   --text_dark: #f4edda;
   /* --red: #6c4a8e; */
-  --red: #842c64;
+  --red: #2c7b84;
   --darkred: #6c2552;
   --orange: #ede0bc;
 }
@@ -229,7 +229,7 @@ body {
 }
 
 #logo {
-  width: 100px;
+  width: 300px;
   height: 100px;
 }
 
